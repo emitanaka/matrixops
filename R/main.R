@@ -19,6 +19,14 @@ entry_subtract <- function(M, entry, x) {
   M
 }
 
+
+#' Entry multipled
+#'
+#' Multiply matrix.... bla bla
+#'
+#' @inheritParams entry_add
+#'
+#' @export
 entry_multiply_by <- function(M, entry, x) {
   M[entry[1], entry[2]] <- M[entry[1], entry[2]] *  x
   M
