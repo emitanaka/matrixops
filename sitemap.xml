@@ -16,6 +16,9 @@
     <loc>http://emitanaka.org/matrixops/index.html</loc>
   </url>
   <url>
+    <loc>http://emitanaka.org/matrixops/reference/e.html</loc>
+  </url>
+  <url>
     <loc>http://emitanaka.org/matrixops/reference/entry_add.html</loc>
   </url>
   <url>
@@ -23,5 +26,11 @@
   </url>
   <url>
     <loc>http://emitanaka.org/matrixops/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>http://emitanaka.org/matrixops/reference/matrixops-package.html</loc>
+  </url>
+  <url>
+    <loc>http://emitanaka.org/matrixops/reference/pipe.html</loc>
   </url>
 </urlset>
