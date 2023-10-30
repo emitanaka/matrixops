@@ -37,6 +37,10 @@ entry_divide_by <- function(M, entry, x) {
   M
 }
 
+#' A helper function to specify entry
+#'
+#' @param i,j The row and column entry of the matrix.
+#' @export
 e <- function(i, j) {
   if(i < 0) stop("Row entry is not a positive integer.")
   if(j < 0) stop("Column entry is not a positive integer.")
