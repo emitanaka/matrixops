@@ -19,3 +19,8 @@ entry_subtract(M, entry, x)
 \description{
 More details...
 }
+\examples{
+M <- matrix(1:4, 2, 2)
+entry_add(M, e(2, 2), 3)
+
+}

@@ -5,6 +5,9 @@
 #' @param M A matrix
 #' @param entry An entry created using function [e]
 #' @param x A single nunber.
+#' @examples
+#' M <- matrix(1:4, 2, 2)
+#' entry_add(M, e(2, 2), 3)
 #'
 #' @export
 entry_add <- function(M, entry, x) {
